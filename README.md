@@ -1,7 +1,7 @@
 The Spark Foundation
 2nd Task
 Optimum No of clusters Using Unsupervise ML (K_Means)
-Completed By:- Prince Mishra
+Completed By:- Rishabh Sharma
 Tool Used:- Jupyter Notebook (Language Used:- Python)
 Loading Iris Data
 In [1]:
